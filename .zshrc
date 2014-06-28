@@ -25,7 +25,6 @@ RPROMPT="%1(v|%F{green}%1v%f|)"
 
 alias g="git"
 alias ll="ls -al"
-function spec () { ruby ~/work/spmh/script/spec  $1 }
 alias -s rb=spec
 alias emacs="emacs -nw"
 alias -s py="python"
